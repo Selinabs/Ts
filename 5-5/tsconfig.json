@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        // "target": "ES6",
+        "module": "AMD",
+        // "lib": ["DOM"],
+        "outDir": "./dist", // 配置编译后文件的位置，没有会创建
+        "outFile": "./dist/app.js",
+        // "allowJs": true,
+        // "checkJs": true,
+        "removeComments": true, //是否加入注释
+        // "noEmit": true, //不生成文件
+        "noEmitOnError": true,//有错误不生成文件
+        // "alwaysStrict": true,
+        // "noImplicitAny": true,// 严格检查有没有any型
+        // "strictNullChecks": true,//检查空值
+        "strict": true,// 严格检查的总开关
+    }
+}

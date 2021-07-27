@@ -1,0 +1,6 @@
+{
+    // "include": ["./dev"],
+    // "exclude": ["./prop/**/*"]
+    // "extends": "./config/base" //继承base.js
+    // "files": ["./dev/devDemo.ts"]  // 指定要编译的文件
+}

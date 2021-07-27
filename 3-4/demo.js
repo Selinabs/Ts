@@ -1,0 +1,14 @@
+var a;
+a = 123;
+a = 'xdclass';
+a = true;
+var b;
+b = 123;
+b = true;
+b = 'xdclass';
+var c;
+c = 12;
+c = b;
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
